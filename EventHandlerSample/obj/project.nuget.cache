@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oN5oe99vicjROWEs3YvWs+w6FxFOk2N+WE29u0rMRTou3iSm5hRUQOo875GJ/Q1tdSKCTx8Fp3ys9AXF3FGHPw==",
+  "success": true,
+  "projectFilePath": "D:\\SapmpleDDD\\Framework\\EventHandlerSample\\EventHandlerSample\\EventHandlerSample\\EventHandlerSample.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.hooshmandsepehrco.com/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

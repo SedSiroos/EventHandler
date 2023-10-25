@@ -1,0 +1,15 @@
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\bin\Debug\net6.0\EventHandlerSample.exe
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\bin\Debug\net6.0\EventHandlerSample.deps.json
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\bin\Debug\net6.0\EventHandlerSample.runtimeconfig.json
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\bin\Debug\net6.0\EventHandlerSample.dll
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\bin\Debug\net6.0\EventHandlerSample.pdb
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.csproj.AssemblyReference.cache
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.AssemblyInfoInputs.cache
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.AssemblyInfo.cs
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.csproj.CoreCompileInputs.cache
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.dll
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\refint\EventHandlerSample.dll
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.pdb
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\EventHandlerSample.genruntimeconfig.cache
+D:\SapmpleDDD\Framework\EventHandlerSample\EventHandlerSample\EventHandlerSample\obj\Debug\net6.0\ref\EventHandlerSample.dll
